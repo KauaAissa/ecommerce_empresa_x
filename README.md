@@ -27,3 +27,7 @@ __Melhoria 1__, _melhoria 2_
     3. Teste3
 2. Integração com outros pagamentos
 3. Sistema de bônus 
+
+#### Imagem Local
+
+![Foto do PHP](img/php.jpg)
