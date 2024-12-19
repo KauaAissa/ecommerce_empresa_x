@@ -49,3 +49,10 @@ Desenvolvedor: https://www.github.com/KauaAissa
     return a + b;
  }
 ```
+
+## Lista de tarefas
+
+- [x] Area de membros
+- [ ] Integração com outros pagamentos
+- [x] Sistema de bonus
+- [ ] CSS do rodapé
