@@ -34,4 +34,4 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem Externa
 
-![Logo do PHP externo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fphp%2F&psig=AOvVaw0XduQJa-hQcYyV30wJYYbf&ust=1734710933079000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDOqq6ctIoDFQAAAAAdAAAAABAE)
+![Logo do PHP externo](https://www.tshirtgeek.com.br/wp-content/uploads/2021/06/com029.jpg)
