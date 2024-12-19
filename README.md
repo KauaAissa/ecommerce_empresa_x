@@ -41,3 +41,11 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.google.com)
 
 Desenvolvedor: https://www.github.com/KauaAissa
+
+## Codigo
+
+```javascript
+ function soma(a, b) {
+    return a + b;
+ }
+```
