@@ -39,3 +39,5 @@ __Melhoria 1__, _melhoria 2_
 ## Links
 
 [Google](https://www.google.com)
+
+Desenvolvedor: https://www.github.com/KauaAissa
